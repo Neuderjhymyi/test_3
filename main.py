@@ -1,3 +1,4 @@
 '''Main file'''
 
-print('Hello, Synergy!')
+hello = 'Hello, Synergy!'
+print(hello)
